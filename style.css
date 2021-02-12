@@ -6,8 +6,6 @@ header{
     font-size: 32px;
     font-family: sans-serif;
     color: #fff;
-    margin: 0;
-    padding: 0;
 }
 main{
     background-color: green;
@@ -17,4 +15,11 @@ main{
     color: #fff;
     padding: 50px 100px;
 
+}footer{
+    padding: 50px ;
+    text-align: center;
+    background-color: blue;
+    font-size: 32px;
+    font-family: sans-serif;
+    color: #fff;
 }
